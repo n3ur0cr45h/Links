@@ -5,3 +5,20 @@
 </div>
 
 ----
+
+<details>
+  <summary><b> Games </b></summary>
+<div align="Center"> 
+<br>
+
+| Título         | Descrição                   | URL                                                                                 | 
+| ---------------| ----------------------------|-------------------------------------------------------------------------------------| 
+| PCGamingWiki   | Troubleshoot de Games       | https://www.pcgamingwiki.com/wiki/Home                                              |
+| SteamDB        | Banco de Dados - Steam      | https://steamdb.info/                                                               |
+| GG Deals       | KeyShop Hub                 | https://gg.deals/                                                                   |
+| Eneba          | Keyshop Hub - Terceira      | https://www.eneba.com/                                                              |
+
+</div> 
+</details>
+
+----
