@@ -22,3 +22,15 @@
 </details>
 
 ----
+
+<details>
+  <summary><b> Notícias T.I </b></summary>
+<div align="Center"> 
+<br>
+
+| Título         | Descrição                   | URL                                                                                 | 
+| ---------------| ----------------------------|-------------------------------------------------------------------------------------| 
+| TechPowerUp    | Notícias / Hardware         | https://www.techpowerup.com/                                                        |
+
+</div> 
+</details>
