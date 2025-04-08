@@ -58,6 +58,7 @@
 | Paulo Gomes                    | Manutenção                       | https://www.youtube.com/@PauloGomesVGA                                              | 
 | Linus Tech Tips                | Hardware                         | https://www.youtube.com/@LinusTechTips                                              | 
 | Ashton’s Retro Computer Room   | Retrocomputação                  | https://www.youtube.com/@ashtonsretrocomputerroom                                   | 
+| LGR                            | Retrocomputação                  | https://www.youtube.com/@LGR                                                        | 
 | History of Gadgets             | História                         | https://www.youtube.com/@history.of.gadgets                                         | 
 | Sci-Fi Odyssey                 | Ficção Científica                | https://www.youtube.com/@Sci-FiOdyssey                                              | 
 | PC Security Channel            | Cibersegurança                   | https://www.youtube.com/@pcsecuritychannel                                          | 
